@@ -21,7 +21,8 @@ def members_of_series():
         if total >= e:
             print(total)
         else:
-            break
+            break  
+           ewfrgthj,,j
 
 
 if __name__ == "__main__":
